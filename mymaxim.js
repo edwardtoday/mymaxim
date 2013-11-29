@@ -4,7 +4,7 @@ jQuery(function($)
   {
     var arrMaximDefault = [
       "兴趣是最好的老师。	@Albert Einstein",
-      "Innovation is not about saying yes to everything. It’s about saying NO to all but the most crucial features.  @Steve Jobs",
+      "Innovation is not about saying yes to everything. It’s about saying NO to all but the most crucial features.	@Steve Jobs",
       "Stay hungry. Stay foolish.	@Steve Jobs",
       "这辈子没法做太多的事情, 所以每一件都要做到精彩绝伦!	@Steve Jobs",
       "我每天都自问: '如果今天是我生命的最后一天, 我还会做今天打算做的事情吗?'	@Steve Jobs",
