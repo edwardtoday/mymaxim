@@ -1,23 +1,10 @@
-// Copyright 2013 edwardtoday <edwardtoday@gmail.com>
-// 
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-// 
-//     http://www.apache.org/licenses/LICENSE-2.0
-// 
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
-
 jQuery(function($)
 {
   function init()
   {
     var arrMaximDefault = [
       "兴趣是最好的老师。	@Albert Einstein",
+      "Innovation is not about saying yes to everything. It’s about saying NO to all but the most crucial features.  @Steve Jobs",
       "Stay hungry. Stay foolish.	@Steve Jobs",
       "这辈子没法做太多的事情, 所以每一件都要做到精彩绝伦!	@Steve Jobs",
       "我每天都自问: '如果今天是我生命的最后一天, 我还会做今天打算做的事情吗?'	@Steve Jobs",
@@ -68,11 +55,11 @@ jQuery(function($)
       "伟大的车工值得给他几倍于普通车工的薪水。但一个伟大的程序员, 其价值相当于普通程序员的1万倍!	@Bill Gates",
       "投资是预测资产收益的活动, 而投机是预测市场心理的活动。	@John Maynard Keynes",
       "投资风险来自于: 你不知道你在做什么 :)	@Warren Edward Buffett",
-	  "真正坚强并且心态健康的人，被朋友出卖，被亲人误解，被爱人抛弃，也不会对人性失去信心。	@罗永浩",
-	  "希望你一腔正义或者说充满了正直感，受到恶心的人、身边的人、你相信的人给你打击摧残的时候，你明确这样一点就是：你做正确的事不是为了他们做的，是为了你认为是正确的原则去做的。	@罗永浩",
-	  "经济学理论并不是一些现成的可以用于政策分析的结论。它不是教条，而是一种方法、一种智力工具、一种思维技巧，有助于拥有它的人得出正确的结论。	@John Maynard Keynes",
-	  "现代社会的三种毒药：消费主义，性自由和成功学。消费主义以品牌为噱头，以时尚为药效，恋物成瘾。性自由以人性为噱头，以性爱为药效，纵欲成瘾。成功学以速成为噱头，以名利为药效，误导急于走捷径成为人上人的年轻人投身其中，投机成瘾。	@古典 (《拆掉思维里的墙》作者)",
-	  "1988年1月24日，昆明开往上海的80次特快旅客列车运行到贵昆线且午至邓家村站间，发生颠覆事故，造成88人死亡，62人重伤。	事故发生后，丁关根向国务院请辞了铁道部长一职。"
+      "真正坚强并且心态健康的人，被朋友出卖，被亲人误解，被爱人抛弃，也不会对人性失去信心。	@罗永浩",
+      "希望你一腔正义或者说充满了正直感，受到恶心的人、身边的人、你相信的人给你打击摧残的时候，你明确这样一点就是：你做正确的事不是为了他们做的，是为了你认为是正确的原则去做的。	@罗永浩",
+      "经济学理论并不是一些现成的可以用于政策分析的结论。它不是教条，而是一种方法、一种智力工具、一种思维技巧，有助于拥有它的人得出正确的结论。	@John Maynard Keynes",
+      "现代社会的三种毒药：消费主义，性自由和成功学。消费主义以品牌为噱头，以时尚为药效，恋物成瘾。性自由以人性为噱头，以性爱为药效，纵欲成瘾。成功学以速成为噱头，以名利为药效，误导急于走捷径成为人上人的年轻人投身其中，投机成瘾。	@古典 (《拆掉思维里的墙》作者)",
+      "1988年1月24日，昆明开往上海的80次特快旅客列车运行到贵昆线且午至邓家村站间，发生颠覆事故，造成88人死亡，62人重伤。	事故发生后，丁关根向国务院请辞了铁道部长一职。"
     ];
 
 
