@@ -3,6 +3,7 @@ jQuery(function($)
   function init()
   {
     var arrMaximDefault = [
+      "To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.	@Derek Sivers",
       "兴趣是最好的老师。	@Albert Einstein",
       "Innovation is not about saying yes to everything. It’s about saying NO to all but the most crucial features.	@Steve Jobs",
       "Stay hungry. Stay foolish.	@Steve Jobs",
