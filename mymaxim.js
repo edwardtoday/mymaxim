@@ -3,6 +3,7 @@ jQuery(function($)
   function init()
   {
     var arrMaximDefault = [
+      "What you want the most from a new hire is passion for what he does, and there’s no better way of showing it than a trace of commitment in open source projects.  @Jarkko Laine",
       "Adding people to a late software project makes it later. @Fred Brooks",
       "To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.	@Derek Sivers",
       "兴趣是最好的老师。	@Albert Einstein",
