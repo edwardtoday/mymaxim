@@ -3,6 +3,7 @@ jQuery(function($)
   function init()
   {
     var arrMaximDefault = [
+      "人会长大三次。第一次是在发现自己不是世界中心的时候。第二次是在发现即使再怎么努力，终究还是有些事令人无能为力的时候。第三次是在，明知道有些事可能会无能为力，但还是会尽力争取的时候。	@RabbitHeart",
       "The difference between you and everyone else will be how well you execute. Success is all about great execution. @from Getting Real by 37Signals",
       "What you want the most from a new hire is passion for what he does, and there’s no better way of showing it than a trace of commitment in open source projects.  @Jarkko Laine",
       "Adding people to a late software project makes it later. @Fred Brooks",
