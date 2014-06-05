@@ -3,6 +3,16 @@ jQuery(function($)
   function init()
   {
     var arrMaximDefault = [
+      "员工辞职最主要的原因是什么？钱少事多离家远，位低权轻责任重。	@路飞",
+      "种一棵树最好的时间是十年前，其次是现在。	@CaunDerre",
+      "一直认为，所谓新鲜感，不是和未知的人一起去做同样的事情，而是和已知的人一起去体验未知的人生。	@张桃紫",
+      "我们坚持一件事情，并不是因为这样做了会有效果，而是坚信，这样做是对的。	@哈维尔",
+      "命是弱者借口，运乃强者谦词。	@邓亚圣",
+      "别让时代的悲哀，成为你人生的悲哀。	@王利芬",
+      "有人觉得交际困难或者比较累，是因为他们总是试图表现出自己所不具备的素质。	@秦春山",
+      "在买任何东西之前牢记九字箴言：你喜欢，你需要，你适合。 PS：适用于很多事，包括感情也一样。	@费妮妮",
+      "你必须很努力，才能看上去毫不费力。	@陈莲诚",
+      "年轻时就释怀与淡泊，是没有希望的。	@王石",
       "人会长大三次。第一次是在发现自己不是世界中心的时候。第二次是在发现即使再怎么努力，终究还是有些事令人无能为力的时候。第三次是在，明知道有些事可能会无能为力，但还是会尽力争取的时候。	@RabbitHeart",
       "The difference between you and everyone else will be how well you execute. Success is all about great execution. @from Getting Real by 37Signals",
       "What you want the most from a new hire is passion for what he does, and there’s no better way of showing it than a trace of commitment in open source projects.  @Jarkko Laine",
